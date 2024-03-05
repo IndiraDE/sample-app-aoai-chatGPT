@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'aqopenaiweb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FE089968CD214C1C87E5DB90611D58A3 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B717B70339B74A95BD7F8505C4F35EEB }}
